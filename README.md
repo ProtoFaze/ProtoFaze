@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProtoFaze
-- 👀 I’m interested in Badminton, coding & Food
-- 🌱 I’m currently learning HTML, CSS & PHP
+- 👀 I’m interested in AI algorithms & cross-platform frameworks
+- 🌱 I’m currently learning reactJS & R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : TP064820@mail.apu.edu.my
 
