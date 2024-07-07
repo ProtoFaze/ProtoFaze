@@ -9,7 +9,6 @@ I have 5 years coding experience, using python, java, c++, swift, and the basic 
 *   🌍  I'm based in Malaysia
 *   ✉️  You can contact me at [TP064820@mail.apu.edu.my](mailto:TP064820@mail.apu.edu.my)
 *   🤝  I'm open to collaborating on Local Hackathons, small projects
-*   ⚡  Call me ProtoFaze
 
 ### Skills 
 <p align="left">
